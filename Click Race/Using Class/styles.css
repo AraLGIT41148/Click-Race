@@ -1,0 +1,24 @@
+/* Styling for game buttons */
+.css {
+  width: 683px;
+  height: 384px;
+  font-size: 100px;
+}
+
+/* Styling to display buttons horizontally */
+div {
+  display: flex;
+}
+
+/* Background color for the page */
+body {
+  background-color: bisque;
+}
+
+/* Styling for paragraphs */
+p {
+  color: purple;
+  text-align: center;
+  font-size: 100px;
+  margin: 25px 0 0 0;
+}
